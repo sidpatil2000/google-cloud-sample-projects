@@ -6,4 +6,4 @@
 - You should have your website/application with you. If you don't have any websites, here is the link to my sample  website(click here).
 - Should have a GCP account with billing activated.
 
-## Check out our Medium blog to learn the steps - [link]. 
+## Check out our Medium blog to learn the steps - https://medium.com/google-cloud/website-deployment-to-app-engine-39a62da83a74. 
